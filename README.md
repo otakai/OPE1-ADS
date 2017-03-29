@@ -7,3 +7,4 @@ Este é o Repositório que contém os links para projetos dos alunos de ADS-Impa
 * [Grupo 3 - Rat Boy](https://drive.google.com/drive/folders/0BxhglXEH-HvdVGhicGpXclZQc2s)
 * [Grupo 4 - Prevenção](https://github.com/OSPrevencao/O.S.PREVENCAO)
 * [Grupo 5 - Klistale](https://github.com/fellipevalerio/codehunter)
+* [Grupo 6 - Norma Studio](https://drive.google.com/drive/folders/0B6kJrAmSRzjgYWNJZHlLYndqMDQ?usp=sharing_eidl&ts=5821d207)
