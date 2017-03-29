@@ -4,5 +4,6 @@ Este é o Repositório que contém os links para projetos dos alunos de ADS-Impa
 ## Alunos do 1º semestre de 2017
 * [Grupo 1 - Infopreta](https://github.com/InfoPreta/OPE-project)
 * [Grupo 2 - Lopas Corretora](https://github.com/rnataoliveira/OPE)
+* [Grupo 3 - Rat Boy](https://drive.google.com/drive/folders/0BxhglXEH-HvdVGhicGpXclZQc2s)
 * [Grupo 4 - Prevenção](https://github.com/OSPrevencao/O.S.PREVENCAO)
 
